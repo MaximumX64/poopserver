@@ -1,0 +1,44 @@
+# 
+# Name: QuickSell
+# Author: mrCookieSlime
+# 
+# Do not modify the Config while the Server is running
+# otherwise bad things might happen!
+# 
+# This Plugin also requires CS-CoreLib to run!
+# If you don't have it installed already, its going to be
+# automatically installed for you
+# 
+# This Plugin utilises an Auto-Updater. If you want to turn that off,
+# simply set options -> auto-update to false
+options:
+  auto-update: true
+  sell-gui-rows: 3
+  locked-item: STAINED_GLASS_PANE-14
+  sign-prefix: '&7[&eSell&7]'
+  sellall-sign-prefix: '&a&oSell All'
+  pregenerate-all-item-prices: false
+  enable-menu-line: false
+  enable-commands: true
+shop:
+  enable-hierarchy: false
+  enable-logging: true
+boosters:
+  extension-mode: false
+  refresh-every: 10
+commands-on-sell: []
+sound:
+  enabled: true
+  sound: ORB_PICKUP
+shops:
+  A:
+    name: '&9A - Shop'
+    permission: QuickSell.shop.A
+    itemtype: CHEST
+    lore: []
+    amount: 1
+    inheritance: []
+    price:
+      COBBLESTONE: 0.0
+list:
+- A

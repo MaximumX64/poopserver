@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718038120942
+  login: 1718037927954
+money: '0'
+last-account-name: Rayan
+lastlocation:
+  world: 5223da4d-4497-4608-8df7-e2815d603fd8
+  world-name: world
+  x: -147.5
+  y: 67.0
+  z: 253.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 5223da4d-4497-4608-8df7-e2815d603fd8
+  world-name: world
+  x: -144.30000001192093
+  y: 65.0
+  z: 259.93130172138433
+  yaw: 352.5000305175781
+  pitch: 30.000001907348633

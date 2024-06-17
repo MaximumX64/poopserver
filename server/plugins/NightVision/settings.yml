@@ -1,0 +1,36 @@
+# -------------------------------------------------------------------------------------------
+#
+#  NightVision 1.1.0
+#
+# -------------------------------------------------------------------------------------------
+
+
+Messages:
+  #Prefix for all NightVision messages
+  Prefix: '&5[NV] '
+  Toggled_On: '&fNightVision &aEnabled'
+  Toggled_Off: '&fNightVision &cDisabled'
+  Cooldown: '&fYou must wait &a{duration} seconds &fbefore you can use NightVision again.'
+  No-Permission: '&cYou do not have permission to use NightVision'
+  Reload-Success: '&fReload Successful'
+  Reload-Fail: '&cReload Failure'
+
+#Give plyaers NightVision on join
+Join:
+  Enabled: true
+
+
+#Anything after this point will not be effected by /NVReload
+#Cooldown in seconds
+Cooldown: 15.0
+
+#Set permissions for the plugin here
+Permissions:
+  NightVision: 'NightVision.use'
+  Reload: 'NightVision.reload'
+  Join: 'NightVision.join'
+
+Lag_Threshold_Millis: 10
+Debug: []
+
+Version: 1

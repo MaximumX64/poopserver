@@ -1,0 +1,17 @@
+Furniture:
+  lantern:
+    G104258-H8CE01:
+      Location:
+        x: -120.0
+        y: 64.0
+        z: 163.0
+        w: world
+        face: NORTH
+      UUUIDs:
+      - c44b52e5-c3ca-4837-a50b-d250a5141669
+      - d380f3d4-8c76-43e6-ad5f-a3eb98c95901
+      - 0cdc32ac-3052-472d-82d8-2d3e604b9875
+      - 04d3c3b8-1ab1-40e3-8d9c-34cee3ae1a56
+      - 4fb8e93f-4115-447a-ad3f-e40ede91b0ed
+      - 5bfe1e6e-50b5-436c-aa8f-5b70313a9897
+      settings: true

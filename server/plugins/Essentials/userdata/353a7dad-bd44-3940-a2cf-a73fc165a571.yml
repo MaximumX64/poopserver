@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718038577047
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718122302945
+  login: 1718121398200
+money: '459075251.13'
+last-account-name: IZAN
+lastlocation:
+  world: 5223da4d-4497-4608-8df7-e2815d603fd8
+  world-name: world
+  x: -122.7133881216131
+  y: 64.0
+  z: 195.1666789985581
+  yaw: -286.6726379394531
+  pitch: 10.403555870056152
+logoutlocation:
+  world: 5223da4d-4497-4608-8df7-e2815d603fd8
+  world-name: world
+  x: -122.5
+  y: 64.0
+  z: 195.5
+  yaw: -294.4726257324219
+  pitch: 10.103555679321289

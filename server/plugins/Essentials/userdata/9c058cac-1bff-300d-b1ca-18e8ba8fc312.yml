@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718041665639
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718042643959
+  login: 1718042245399
+money: '0'
+last-account-name: fulanito
+lastlocation:
+  world: 5223da4d-4497-4608-8df7-e2815d603fd8
+  world-name: world
+  x: -152.0
+  y: 66.0
+  z: 256.0
+  yaw: 0.7500000596046448
+  pitch: -0.4500000476837158
+logoutlocation:
+  world: 5223da4d-4497-4608-8df7-e2815d603fd8
+  world-name: world
+  x: -120.45914491844246
+  y: 64.0
+  z: 162.7468641526532
+  yaw: 30.1686954498291
+  pitch: 35.10000991821289

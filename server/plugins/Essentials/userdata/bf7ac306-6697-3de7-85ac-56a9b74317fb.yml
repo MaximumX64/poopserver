@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718559267789
+  login: 1718559244813
+money: '7102145927658.1399999999998'
+last-account-name: MouaadYT
+logoutlocation:
+  world: 5223da4d-4497-4608-8df7-e2815d603fd8
+  world-name: world
+  x: -93.15294985921783
+  y: 64.0
+  z: 233.42712314678047
+  yaw: -31.419498443603516
+  pitch: 17.5562686920166
+lastlocation:
+  world: 5223da4d-4497-4608-8df7-e2815d603fd8
+  world-name: world
+  x: -151.69999998807907
+  y: 59.0
+  z: 288.69719781319895
+  yaw: -243.55279541015625
+  pitch: 25.31803321838379
